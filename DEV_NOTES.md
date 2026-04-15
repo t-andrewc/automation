@@ -10,3 +10,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-15
 - Wrote notes on upcoming feature design
 - Cleaned up old debug logs
+
+## 2026-04-15
+- Added type hints to helper functions
+- Documented config options
+- Verified API endpoint response schema
