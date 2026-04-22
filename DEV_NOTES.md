@@ -15,3 +15,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added type hints to helper functions
 - Documented config options
 - Verified API endpoint response schema
+
+## 2026-04-22
+- Added .editorconfig for consistent formatting
